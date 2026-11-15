@@ -1,9 +1,9 @@
 VentaRequestDTO
 ======================
 
-package com.tiendapepe.Tiendapepe.dto.request;
+package com.tiendaluci.tiendaluci.dto.request;
 
-import com.tiendapepe.Tiendapepe.exception.ValidacionException;
+import com.tiendaluci.tiendaluci.exception.ValidacionException;
 import java.util.List;
 
 public class VentaRequestDTO {
@@ -43,9 +43,9 @@ public class VentaRequestDTO {
 
 DetalleVentaRequestDTO
 =================================
-package com.tiendapepe.Tiendapepe.dto.request;
+package com.tiendaluci.tiendaluci.dto.request;
 
-import com.tiendapepe.Tiendapepe.exception.ValidacionException;
+import com.tiendaluci.tiendaluci.exception.ValidacionException;
 
 public class DetalleVentaRequestDTO {
     private String producto;

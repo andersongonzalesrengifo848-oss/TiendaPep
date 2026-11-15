@@ -1,10 +1,10 @@
-package com.tiendapepe.Tiendapepe;
+package com.tiendaluci.tiendaluci;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TiendapepeApplicationTests {
+class TiendaLuciApplicationTests {
 
 	@Test
 	void contextLoads() {
